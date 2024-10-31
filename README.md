@@ -1,5 +1,9 @@
 # 🛡️ SQL Injection Attack Incident Response Runbook
 
+[![Security](https://img.shields.io/badge/Security-Critical-red.svg)](https://shields.io/)
+[![Documentation](https://img.shields.io/badge/Documentation-Comprehensive-blue.svg)](https://shields.io/)
+[![Maintenance](https://img.shields.io/badge/Maintained-Active-green.svg)](https://shields.io/)
+
 Welcome to the **SQL Injection Attack Incident Response Runbook**! This repository is designed as your go-to guide for handling SQL Injection incidents in an organized and effective manner, guiding security teams step-by-step through phases of detection, containment, and recovery. SQL Injection remains one of the most prevalent database attack vectors, targeting vulnerabilities in SQL query handling and posing serious threats to data integrity and security.
 
 **This runbook equips your team to:**
