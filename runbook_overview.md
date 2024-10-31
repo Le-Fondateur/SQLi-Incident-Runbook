@@ -1,5 +1,9 @@
 # SQL Injection Attack Incident Runbook
 
+[![Security](https://img.shields.io/badge/Security-Critical-red.svg)](https://shields.io/)
+[![Documentation](https://img.shields.io/badge/Documentation-Comprehensive-blue.svg)](https://shields.io/)
+[![Maintenance](https://img.shields.io/badge/Maintained-Active-green.svg)](https://shields.io/)
+
 ## Overview
 SQL Injection is a type of attack where malicious SQL statements are injected into an entry field for execution, which can potentially compromise the security of the entire database. This runbook provides a structured response to SQL Injection incidents, covering detection, analysis, containment, and recovery phases. Each phase includes detailed steps to effectively mitigate the impact of an SQL Injection attack.
 
